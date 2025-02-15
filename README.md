@@ -55,13 +55,7 @@ npm install -g gh-pages
 npm run build
 npm run deploy
 ```
-2️⃣ **Vercel** (Recommended)  
-```sh
-npm install -g vercel
-vercel
-```
 
----
 
 ## **📞 Contact**
 For any queries or suggestions, feel free to reach out:  
@@ -69,7 +63,7 @@ For any queries or suggestions, feel free to reach out:
 
 ---
 
-**🔗 Live Demo:** [Form Validation App](https://your-username.github.io/form-validation-app/) *(Update with actual link)*  
+**🔗 Live Demo:** [Form Validation App]([https://your-username.github.io/form-validation-app/](https://tejaspatil1161.github.io/-Form-Validation-App-/)) 
 
 ---
 
